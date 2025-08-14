@@ -1,2 +1,3 @@
-!(fig1)
-!(fig2)
+!(fig1.png)
+
+!(fig2.png)
