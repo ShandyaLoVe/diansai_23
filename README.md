@@ -1,4 +1,4 @@
 ##
-![figure1](/fig1.png "Figure1")
+![figure1](/fig1.jpg "Figure1")
 ##
-![figure2](/fig2.png "Figure2")
+![figure2](/fig2.jpg "Figure2")
